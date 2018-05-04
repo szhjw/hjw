@@ -10,3 +10,5 @@ https://github.com/1991wangliang/pay
 4.后端架构师技术图谱
 https://github.com/xingshaocheng/architect-awesome
 
+5.代码自动化生产
+https://github.com/smallyaohailu/jeesite
