@@ -12,3 +12,6 @@ https://github.com/xingshaocheng/architect-awesome
 
 5.代码自动化生产
 https://github.com/smallyaohailu/jeesite
+
+6.sso
+https://www.cnblogs.com/hujunzheng/p/6395966.html?from=singlemessage
