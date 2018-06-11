@@ -15,3 +15,7 @@ https://github.com/smallyaohailu/jeesite
 
 6.sso
 https://www.cnblogs.com/hujunzheng/p/6395966.html?from=singlemessage
+
+
+7.sso-2
+https://gitee.com/a466350665/smart
