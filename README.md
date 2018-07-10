@@ -19,3 +19,6 @@ https://www.cnblogs.com/hujunzheng/p/6395966.html?from=singlemessage
 
 7.sso-2
 https://gitee.com/a466350665/smart
+
+8.Guns基于SpringBoot,致力于做更简洁的后台管理系统,完美整合springmvc + shiro + mybatis-plus + beetl
+https://gitee.com/naan1993/guns
