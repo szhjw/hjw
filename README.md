@@ -26,3 +26,8 @@ https://gitee.com/naan1993/guns
 
 9.spring boot源码分析
 https://fangjian0423.github.io/
+
+10.springcloud版本商城  
+    https://github.com/shenzhuan/mallcloud-platform
+    dubbo版本https://github.com/shenzhuan/mall-dubbo
+    单机版 https://github.com/shenzhuan/mallplus
